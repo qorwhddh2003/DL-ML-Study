@@ -1,5 +1,2 @@
-# PullShark2
+# DL/ML Study
 
-#I'm good
-
-#Deokhyun is anho
